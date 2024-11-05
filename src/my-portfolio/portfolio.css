@@ -1,0 +1,200 @@
+.myPh {
+  height: 400px;
+  width: 300px;
+  border: 2px solid black;
+  border-radius: 100px;
+  margin: 10px 8px 20px 60px
+}
+.myPh:hover{
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  height: 410px;
+  width: 310px;
+  margin-top:5px;
+
+}
+.name-box{
+            font-size: 70px;
+          margin-left: 390px;
+          font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+           
+}
+
+.container{
+              background-color:snow;
+              margin-left: 7%;
+              width: 900px;
+              height: 430px;
+              border: 1px solid black;
+              border-radius: 12px;
+}
+.pro-header {
+  margin-top: 1px;
+  height: 10px;
+  width: 300px;
+  display: flex;
+  margin-left: 10px;
+  
+}
+
+.id-box{
+          font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+          font-size: 26px;
+          margin-top: 18px;
+          color: black;
+}
+.detailBox {
+      margin-left: 390px;
+      width: 400px;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+.img-box {
+  height: 50px;
+  width: 50px;
+  margin-top: 12px;
+  margin-left: 6px;
+}
+.img-box:hover{
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+.detBox {
+  display: flex;
+}
+
+.main-box {
+  margin-right: 14%;
+  margin-left: 15%;
+  margin-bottom: 3%;
+  
+}
+
+.text-box {
+  margin-bottom: 3%;
+  margin-left: 100px;
+}
+
+
+.head-box {
+  display: flex;
+}
+
+.img-logo {
+  height: 40px;
+  width: 40px;
+  margin-top: 19px;
+  margin-left: 6px;
+}
+
+.skill-logo {
+  height: 70px;
+  width: 70px;
+  margin-top: 5px;
+}
+
+.skill-box {
+  display: flex;
+  
+}
+
+li {
+  margin-left: 6px;
+}
+
+h3,
+h4 {
+  color: black;
+}
+
+.img-logo:hover {
+  height: 60px;
+  width: 60px;
+  margin-top: 19px;
+  margin-left: 6px;
+}
+
+.img-box:hover {
+  height: 50px;
+  width: 50px;
+  margin-top: 17px;
+  margin-left: 6px;
+}
+
+.skill-logo:hover {
+  height: 90px;
+  width: 90px;
+  margin-top: 5px;
+}
+.proj-box{
+            height: 890px
+}
+
+
+/*.Header:hover {
+  background-color: #9ACEEB;
+  border-radius: 100px;
+  width: 1220px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+
+}*/
+
+
+
+.ed-box:hover{
+  border-radius: 13px;
+  background-color:#eff2f0;
+  height: 440px
+}
+
+
+
+.sk-box:hover{
+  background-color:#eff2f0;
+  border-radius: 9px;
+  margin-bottom: 2%;
+}
+.page-box{
+            display: flex;
+            margin: 2% 2% 3% 5%;
+}
+.main-box:hover{
+  margin-top: 40px;
+  background-color:#eff2f0;
+  border-radius: 9px;   
+}
+
+.key_icon{  
+            height: 15px;
+            width: 15px;
+            margin-right: 2px;
+}
+b{
+   text-decoration: underline;
+}
+.ex-box{
+          display: flex;
+}
+.in-box {
+          display: flex;
+          
+}
+.int-box{
+            display: flex;
+            margin-left: 3%;
+            margin-bottom: 3%
+}
+.bt-box{
+               height: 120px;
+}
+.ab-box{
+         margin-bottom: 2%;
+         height: 350px;
+}
